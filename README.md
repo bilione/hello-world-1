@@ -3,4 +3,3 @@ this is my hello world
 i am a pupil
 你是我的世界！
 MBTI:INFP
-小朋友，去郊游！
